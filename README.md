@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @legendarywaffle
+- 👀 I’m interested in doing weird whitch craft
+- 🌱 I’m currently learning docker and backend applications like php and node
+- 💞️ I’m looking to collaborate on my dream software that is not out yet :<
